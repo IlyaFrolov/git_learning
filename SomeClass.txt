@@ -1,8 +1,8 @@
-hello, world!;;
-hello, everybody;;;
-some more code;;
-hello my dear friend;;;
-what's up;;
-some more greet;;
+hello, world!\
+hello, everybody\
+some more code\
+hello my dear friend\
+what's up\
+some more greet\
 
 
