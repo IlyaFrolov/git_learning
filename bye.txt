@@ -1,2 +1,2 @@
-bye everyone
-bye world
+bye everyone;
+bye world;
